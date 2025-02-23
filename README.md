@@ -63,5 +63,12 @@ To stop and remove the containers, run:
 ```sh
 docker-compose down -v
 ```
-  
-<!-- USAGE EXAMPLES -->
+
+### Tests
+To run the tests:
+```sh
+npm test
+```
+
+### SWAGGER
+Documentation is available for the development environment at http://localhost:3001/docs/.
