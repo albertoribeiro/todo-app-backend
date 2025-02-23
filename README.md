@@ -67,6 +67,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Execute Prisma migrations (using "npx prisma migrate deploy")
 - Start the API (using "npm start")
 
+The API is available at: http://localhost:3001
+
 To stop and remove the containers, run:
 ```sh
 docker-compose down -v
