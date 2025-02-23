@@ -13,6 +13,7 @@ The application is containerized with Docker and docker-compose is used to bring
 ### Prerequisites
 
 - Install [Node.js](https://nodejs.org/en/)
+- node v18.19.1 (npm v10.2.4)
 - Create a MySQL data base, try with [docker](https://medium.com/@maravondra/mysql-in-docker-d7bb1e304473) 
 
 ### Installation
